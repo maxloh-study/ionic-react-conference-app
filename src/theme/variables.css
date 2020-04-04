@@ -257,7 +257,7 @@
  */
 
 .md {
-
+  --background-focused-opacity: 0;
 }
 
 /*
